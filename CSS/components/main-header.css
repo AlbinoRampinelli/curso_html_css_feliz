@@ -8,3 +8,10 @@
 
 }
 
+@media screen and (max-width: 980px) {
+
+    .main-header > .menu {
+        display: none;
+    }
+
+}    
